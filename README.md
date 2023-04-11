@@ -12,7 +12,10 @@ Variable Description: Column Description radius Mean of distances from center to
 Scope: ● Analysing the available data and exploring relationships among given variables ● Data Pre-processing ● Training SVM classifier to predict whether the patient has cancer or not ● Assess the correctness in classifying data with respect to efficiency and effectiveness of the SVM classifier in terms of accuracy, precision, sensitivity, specificity and AUC ROC ● Tuning the hyperparameters of SVM Classifier provided by the scikit-learn library
 
 Learning Outcome: The students will get a better understanding of how the variables are linked to each other and build an SVM model. Apart from various performance measures, they will also learn about hyperparameter tuning with cross-validation to improve these scores.
+
+
 E-commerce-Customer-Segmentation
+
 GUVI Project Work E-commerce Customer Segmentation
 
 Abstract: A key challenge for e-commerce businesses is to analyze the trend in the market to increase their sales. The trend can be easily observed if the
